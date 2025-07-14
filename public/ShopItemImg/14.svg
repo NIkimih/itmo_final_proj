@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="39.6874mm" height="39.6874mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3968.74 3968.74"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="1" horiz-adv-x="556" d="M372.001 0l-87.9998 0 0 560.333c-21.1676,-20.334 -49.0015,-40.4993 -83.3331,-60.667 -34.3341,-20.1653 -65.3337,-35.3339 -92.6689,-45.3322l0 85.0003c49.1677,22.9986 92.1678,50.9987 129,83.9981 36.8348,32.8331 63.0016,64.6664 78.334,95.6684l56.6677 0 0 -719.001z"/>
+   <glyph unicode="4" horiz-adv-x="556" d="M322.999 0l0 171 -310.999 0 0 80.9986 326.999 464 72.0001 0 0 -464 97.0007 0 0 -80.9986 -97.0007 0 0 -171 -87.9998 0zm0 251.999l0 322.168 -224.5 -322.168 224.5 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#2B2A29;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil1 {fill:#2B2A29}
+    .fnt0 {font-weight:normal;font-size:4150.69px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="-0.01" y="-0.01" width="3968.75" height="3968.75"/>
+  <text x="-448.28" y="3451.64"  class="fil1 fnt0">14</text>
+ </g>
+</svg>

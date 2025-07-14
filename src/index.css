@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+body{
+  width: 100vw;
+  height: 100vh;
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100vw;
+  background-color: rgb(120, 0, 176);
+}
+.button-main{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex: 1;
+}
+.button-main button{
+  color: white;
+  font-weight: 600;
+  font-size: larger;
+}
+.header-buttons{
+  background-color: rgb(120, 0, 176);
+  display: flex;
+  justify-content: center;
+  flex: 1;
+  
+}
+.header-buttons:hover{
+  background-color: rgb(101, 25, 136);
+}
+
+.main-window{
+  width: 100vw;
+  background-color: #535bf2;
+}
+
+.shop-cards{
+  width: 150px;
+  background-color:  bisque;
+}
+
+.item-card{
+background-color: aqua;
+}
+.item-name{
+  background-color:brown;
+}
+.item-info{
+  background-color: cornflowerblue;
+}
+
+.footer{
+  width: 100vw;
+  height: 100px;
+  background-color:blueviolet
+}
+
+.test{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

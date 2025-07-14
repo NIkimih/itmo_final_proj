@@ -1,0 +1,24 @@
+[
+    nikita@helpit.ru 
+    TestTest123
+]
+
+[
+    admin@example.com
+    testmodepassword
+]
+
+[
+    member@example.com
+    testmodepassword
+]
+
+[
+    viewer@example.com
+    testmodepassword
+]
+
+[
+    unconfirmed@example.com
+    testmodepassword
+]
