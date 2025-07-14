@@ -1,7 +1,15 @@
 import Userfront from "@userfront/toolkit";
 
+let shopItemInCart: any[] = []
+
 //@ts-ignore
 export function ShopItem(props) {
+  //@ts-ignore
+  function addToCart (id){
+    shopItemInCart.push(id)
+    console.log(shopItemInCart)
+  }
+
   return (
      <div className="shop-cards">
          <div className="item-card">
@@ -15,7 +23,7 @@ export function ShopItem(props) {
            {(Userfront.user.email == null) ? (
         <div></div>
       ) : (
-        <div className="document-download rounded-full bg-sky-500 px-5 py-2 text-sm leading-5 font-semibold text-white hover:bg-sky-700">Добавить</div>
+        <div className="document-download rounded-full bg-sky-500 px-5 py-2 text-sm leading-5 font-semibold text-white hover:bg-sky-700" onClick={()=>{addToCart(props.props.id)}}>Добавить</div>
       )}
 
          </div>

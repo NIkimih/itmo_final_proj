@@ -3,7 +3,7 @@ import dataShop from "../../Base/ShopItems.json"
 import { useEffect, useState } from "react";
 
 //@ts-ignore
-export function Shop(props) {
+export function Shop() {
   
   const[data, setData] = useState({items: []});
   useEffect(()=>{
